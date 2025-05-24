@@ -1,6 +1,6 @@
-docker_env:
-    image:  jdvelasq/mlflow:example
-    build_context: .
+# docker_env:
+#     image:  jdvelasq/mlflow:example
+#     build_context: .
 
 entry_points:
     elasticnet:
